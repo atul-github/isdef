@@ -1,0 +1,31 @@
+{
+  "name": "isdef",
+  "version": "1.0.0",
+  "description": "javascript utility to check if property of object is defined",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atul-github/isdef.git"
+  },
+  "keywords": [
+    "javascript",
+    "utility",
+    "test",
+    "object",
+    "property",
+    "is",
+    "defined"
+  ],
+  "author": "Atul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atul-github/isdef/issues"
+  },
+  "homepage": "https://github.com/atul-github/isdef#readme"
+}
