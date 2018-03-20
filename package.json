@@ -1,5 +1,5 @@
 {
-  "name": "isdef",
+  "name": "ifdefined",
   "version": "1.0.0",
   "description": "javascript utility to check if property of object is defined",
   "main": "index.js",

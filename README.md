@@ -1,4 +1,4 @@
-# isdef
+# isdefined
 
 This is simple javascript utiity to check if object property is defined. This is to save lengthy check and to avoid error.
 
@@ -6,7 +6,7 @@ This is simple javascript utiity to check if object property is defined. This is
 
 ```
 var assert=require('assert');
-var isdef = require('isdef');
+var isdef = require('ifdefined');
 
 var x={};
 x.y={};
